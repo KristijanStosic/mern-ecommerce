@@ -18,6 +18,8 @@ CLOUD_API_KEY= cloudinary api key
 CLOUD_API_SECRET= cloudinary api secret
 ```
 
+### Add your paypal client id in client/src/components/mainpages/cart/PaypalButton.js
+
 ### Install Dependencies (frontend & backend)
 
 ```
